@@ -4,7 +4,7 @@ Start coding Java again, with lots of stuff to learn and update
 To Do list:
 0. Learn Git properly
 1. Update SW dev knowledge
-  A. Java knowledge to Java 8
+   A. Java knowledge to Java 8
   B. Logging with Log4J
   C. Testing with TestNG
   D. DB work with MyBatis + PostGre
